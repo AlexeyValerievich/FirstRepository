@@ -1,3 +1,1 @@
-Hello World!!!
-123
-Goodbay
+System.out.println("Hello World");
